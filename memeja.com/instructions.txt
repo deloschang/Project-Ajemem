@@ -22,3 +22,4 @@ DATABASE SIDE :
 4.If you want to change your username and password for administrator then edit admin record  in user table.
 
 5.Go to http://domain.name and login using the administrator username and password.
+wowowowow
