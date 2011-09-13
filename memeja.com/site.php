@@ -1,4 +1,9 @@
 <?php
+
+/*
+	This is a comment
+*/
+
 class site {
 	var $is_container_enabled = 1; 
 	function init() {
