@@ -1,0 +1,1 @@
+(function($){$.fn.extend({selectoverride:function(){return this.each(function(){var wid =eval($(this).find('.sel').width()-17);$(this).css({width:wid+'px',border:'#ccc solid 1px',overflow:'hidden'});});}});})(jQuery);
